@@ -51,8 +51,8 @@ function Register() {
             <i className="ri-mail-send-line text-green-500 text-xl"></i>
           </div>
           <div className="pr-4">
-            <h4 className="font-semibold text-slate-200 text-sm tracking-wide">Verification Sent</h4>
-            <p className="text-xs text-slate-400 mt-0.5">Please check your inbox</p>
+            <h4 className="font-semibold text-slate-200 text-sm tracking-wide">Account created Successfully</h4>
+            <p className="text-xs text-slate-400 mt-0.5">Please login!</p>
           </div>
           <style>
             {`
